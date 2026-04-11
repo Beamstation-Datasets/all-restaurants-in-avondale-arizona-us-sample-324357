@@ -1,0 +1,22 @@
+{
+  "base_price": 1950,
+  "beamstation_catalog_url": "https://beamstation.com/datasets",
+  "beamstation_origin": "https://beamstation.com",
+  "category_group_name": "Restaurants",
+  "config_category": "census",
+  "config_description": "Complete restaurant market coverage for Avondale, Arizona. This city-level export includes every active restaurant listing filtered by the Restaurants category group, with review analytics and sentiment data. Refreshed weekly.",
+  "config_name": "All Restaurants in Avondale, Arizona, US",
+  "export_job_id": "a1fee965-b46a-436b-b9e1-84e615171476",
+  "github_org": "Beamstation-Datasets",
+  "id_short": 324357,
+  "location_name": "Avondale",
+  "location_type": "city",
+  "repo_name": "all-restaurants-in-avondale-arizona-us-sample-324357",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/324357/beamstation_324357_restaurants-us-az_SAMPLE_DIST.csv",
+  "sample_pct": 9.86,
+  "sample_records": 21,
+  "sample_sha256": "d3a231fb5b907af939772c379cbef9f65965688b7dd1dbf33bd759321f9f6ca3",
+  "sample_size_bytes": 100750,
+  "total_records": 213,
+  "updated_at": "2026-04-07T11:01:52.574273+00:00"
+}
