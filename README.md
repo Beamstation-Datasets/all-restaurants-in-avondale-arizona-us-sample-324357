@@ -1,6 +1,6 @@
 # All Restaurants in Avondale, Arizona, US
 
-> Free BeamStation sample export with 20 rows and masked direct-contact fields.
+> Free BeamStation sample export with 16 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `324357` |
 | Location | Avondale |
 | Category | Restaurants |
-| Full dataset size | 207 records |
-| Free sample size | 20 records (9.66%) |
-| Last export | 2026-04-14T10:53:59.254759+00:00 |
+| Full dataset size | 166 records |
+| Free sample size | 16 records (9.64%) |
+| Last export | 2026-04-21T11:17:41.355285+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-avondale-arizona-us-sample-324357/releases/download/sample-latest/beamstation_324357_restaurants-us-az_SAMPLE_DIST.csv) |
 
 ## What is in this sample
