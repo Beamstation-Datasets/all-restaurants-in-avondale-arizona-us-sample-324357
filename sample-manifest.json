@@ -1,12 +1,12 @@
 {
-  "export_job_id": "31c67871-1d18-45bd-93cc-366de421a069",
+  "export_job_id": "c3a88355-a4c1-4b14-9db4-7099ee922f1e",
   "id_short": 324357,
-  "published_at": "2026-04-17T19:18:33Z",
+  "published_at": "2026-04-21T19:17:14Z",
   "repo_name": "all-restaurants-in-avondale-arizona-us-sample-324357",
   "sample_asset_name": "beamstation_324357_restaurants-us-az_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/324357/beamstation_324357_restaurants-us-az_SAMPLE_DIST.csv",
-  "sample_records": 20,
-  "sample_sha256": "e7569aac621479c11866591a81e4f6bb47ecf78b6629323dbe30248a3ece034b",
-  "sample_size_bytes": 81675,
-  "total_records": 207
+  "sample_records": 16,
+  "sample_sha256": "1ba6f60b23550879c9b065de0a0f067ac71c26a154b8686ba62422262d1936a7",
+  "sample_size_bytes": 70657,
+  "total_records": 166
 }
